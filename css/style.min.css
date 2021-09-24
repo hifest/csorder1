@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,900;1,400&display=swap);
 .win {
     height: 100vh;
-    background: url('/dist/img/as.jpg') no-repeat 50% / cover;
+    background: url('/img/as.jpg') no-repeat 50% / cover;
     position: relative;
 }
 .win__text {
